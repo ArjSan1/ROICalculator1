@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ROICalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ROICalculator_jar</output-path>
+    <root id="archive" name="ROICalculator.jar">
+      <element id="module-output" name="ROICalculator" />
+    </root>
+  </artifact>
+</component>
