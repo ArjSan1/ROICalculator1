@@ -10,8 +10,8 @@ import static java.time.Duration.*;
 public class ROICalculator{
 
     public static void main(String[] args) {
-    System.out.println("Your initial amount is: "+args[0]);
-    System.out.println("Your final amount is: " + args[1]);
+    System.out.println("The initial amount is: "+args[0]);
+    System.out.println("The final amount is: " + args[1]);
     System.out.println("Expiration today: " + args[2]);
     double initialAmount = Double.parseDouble(args[0]);
     double finalAmount = Double.parseDouble(args[1]);
